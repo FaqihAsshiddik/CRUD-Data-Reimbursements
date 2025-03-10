@@ -1,4 +1,3 @@
-```markdown
 # CRUD Reimbursement Management System
 
 A comprehensive reimbursement management application with role-based access controls.
@@ -87,4 +86,3 @@ This Python-based application provides a complete solution for managing business
 ## License
 
 This project is intended for educational purposes.
-```
